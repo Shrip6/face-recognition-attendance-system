@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+*.pkl
+Attendance/*.csv
+static/faces/
+tempCodeRunnerFile.py
+.env
